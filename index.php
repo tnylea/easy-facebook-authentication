@@ -1,7 +1,7 @@
 <?php
 	
-	$app_id = '';
-	$url '';
+	$app_id = '210425805668708';
+	$url = 'http://www.tonylea.com';
 	
 ?>
 
